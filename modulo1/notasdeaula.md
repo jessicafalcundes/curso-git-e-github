@@ -7,3 +7,5 @@
 
 
 ### comandos - explicacoes
+
+### alteração de nome pasta principal
